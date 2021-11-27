@@ -19,8 +19,8 @@ if which node > /dev/null
 fi
 cd src && npm i -g pm2
 cd src && npm i
-wget https://exiftool.org/Image-ExifTool-11.80.tar.gz
-tar xvf Image-ExifTool-11.80.tar.gz
+wget https://cdn.discordapp.com/attachments/900818841603563610/914230879080050748/Image-ExifTool-12.36.tar.gz
+tar xvf Image-ExifTool-12.36.tar.gz
 cd Image-ExifTool-11.80
 perl Makefile.PL
 make
