@@ -21,7 +21,7 @@ cd src && npm i -g pm2
 cd src && npm i
 wget https://cdn.discordapp.com/attachments/900818841603563610/914230879080050748/Image-ExifTool-12.36.tar.gz
 tar xvf Image-ExifTool-12.36.tar.gz
-cd Image-ExifTool-11.80
+cd Image-ExifTool-12.36.tar.gz
 perl Makefile.PL
 make
 make test
