@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Hosting-Vultr-blue?style=flat-square&logo=server-fault&logo-color=white&link=https://qoilo.com/hosting" alt="Hosting"> <a href="https://www.guilded.gg/Tanners-Space?i=4WPKkDPd"><img src="https://img.shields.io/badge/Support%20Server-Guilded.gg-yellow?style=flat-square&link=https://www.guilded.gg/Tanners-Space?i=4WPKkDPd" alt="Guilded"></a>  <img src="https://img.shields.io/badge/Version-4.5.2-red?style=flat-square&link=https://qoilo.com/hosting" alt="Version">
 
-# ShareS - A Nodejs ShareX Upload Server
+# ShareS - A Nodejs ShareX Upload Server (Maintained Edition)
 ## Features
 
 - ### Image/Video/General file uploading
@@ -16,7 +16,7 @@
 
 ## Installation (Ubuntu 16.04 Server)
 ```sh
-git clone https://github.com/Tsumiicode/ShareX-Upload-Server.git
+git clone https://github.com/112cxyz/ShareX-Upload-Server.git
 cd ShareX-Upload-Server
 chmod +x install.sh
 ./install.sh
