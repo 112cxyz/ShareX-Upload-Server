@@ -14,7 +14,7 @@
 - ### Password protected gallery page (password is admin key)
 - ### Showcase images (image display pages that show metadata for photography) [[Example](https://cdn.qoilo.com/KH5z)]
 
-## Installation (Ubuntu 16.04 Server)
+## Installation (Ubuntu 22.04 Server)
 ```sh
 git clone https://github.com/112cxyz/ShareX-Upload-Server.git
 cd ShareX-Upload-Server
