@@ -21,7 +21,7 @@ cd src && npm i -g pm2
 cd src && npm i
 wget -O Exif.tar.gz https://exiftool.org/Image-ExifTool-12.63.tar.gz
 tar xvf Exif.tar.gz
-cd Exif
+cd Image-ExifTool-12.63
 perl Makefile.PL
 make
 make test
